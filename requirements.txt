@@ -1,0 +1,3 @@
+openai
+tavily-python
+streamlit>=1.39,<2
